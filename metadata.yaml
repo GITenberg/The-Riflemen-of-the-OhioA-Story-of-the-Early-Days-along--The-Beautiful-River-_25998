@@ -1,0 +1,33 @@
+_repo: The-Riflemen-of-the-OhioA-Story-of-the-Early-Days-along--The-Beautiful-River-_25998
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25998-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: '"The riflemen of the Ohio", while a complete story in itself, continues
+  the fortunes of ... the central characters in "The young trailers", "The forest
+  runners", and "The free rangers."'
+gutenberg_issued: '2008-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Ohio River -- Juvenile fiction'
+title: 'The Riflemen of the Ohio: A Story of the Early Days along "The Beautiful River"'
+url: http://www.gutenberg.org/ebooks/25998
